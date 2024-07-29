@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on real time projects
 - 📫 How to reach me 
 - 😄 Pronouns: Her
-- ⚡ Fun fact: I love math but it challanges me sometimes
+- ⚡ Fun fact: I love mathematics
 
 <!---
 Gwals/Gwals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
