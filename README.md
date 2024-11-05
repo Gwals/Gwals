@@ -9,7 +9,7 @@
 - Business Intelligence Tools: MS Excel, Tableau
 
 # Projects
-
+- ### Python
 
 <!---
 Gwals/Gwals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
