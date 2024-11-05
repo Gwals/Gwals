@@ -9,7 +9,7 @@
 - ✨ Business Intelligence Tools: MS Excel, Tableau
 
 # Projects
-- ### Python
+ ### Python
   Sales project
 
 <!---
