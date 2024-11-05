@@ -13,6 +13,8 @@
   - Sales project <br>
   I completed this project for professional data analyst certification by DataCamp <br>
   - Crime project <br>
+  I completed this project as part of the python track in DataCamp <br>
+  - Nobel Prize Prpject <br>
   I completed this project as part of the python track in DataCamp
 
 <!---
