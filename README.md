@@ -10,7 +10,7 @@
 
 # Projects
  ### Python
-  Sales project
+  Sales project <br>
   I completed this project for professional data analyst certification by DataCamp
 
 <!---
