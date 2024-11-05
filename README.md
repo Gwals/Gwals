@@ -10,8 +10,10 @@
 
 # Projects
  ### Python
-  Sales project <br>
-  I completed this project for professional data analyst certification by DataCamp
+  - Sales project <br>
+  I completed this project for professional data analyst certification by DataCamp <br>
+  - Crime project <br>
+  I completed this project as part of the python track in DataCamp
 
 <!---
 Gwals/Gwals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
