@@ -5,8 +5,8 @@
 - 📫 How to reach me www.linkedin.com/in/hlobisile-gwala-74bb4920b
 - 😄 Pronouns: Her
 - ⚡ Fun fact: I love mathematics
-- **Programming Technologies: SQL(PostgreSQL, BigQuery), Python(Pandas, Matplotlib, Scipy, Numpy)
-- **Business Intelligence Tools: MS Excel, Tableau
+- *Programming Technologies: SQL(PostgreSQL, BigQuery), Python(Pandas, Matplotlib, Scipy, Numpy)
+- *Business Intelligence Tools: MS Excel, Tableau
 
 # Projects
 
