@@ -1,22 +1,22 @@
-- 👋 Hi, I’m @Gwals
+- 👋 Hi, I’m Hlobisile
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on real time projects
-- 📫 How to reach me www.linkedin.com/in/hlobisile-gwala-74bb4920b
+- 📫 Reach me on this link www.linkedin.com/in/hlobisile-gwala-74bb4920b
 - 😄 Pronouns: Her
-- ⚡ Fun fact: I love mathematics
+- ⚡ Fun fact: I live for predicting...
 - ✨ Programming Technologies: SQL(PostgreSQL, BigQuery), Python(Pandas, Matplotlib, Scipy, Numpy)
 - ✨ Business Intelligence Tools: MS Excel, Tableau
 
-# Projects
- ### Python
-  - Sales project <br>
-  I completed this project for professional data analyst certification by DataCamp <br>
-  - Crime project <br>
-  I completed this project as part of the python track in DataCamp <br>
-  - Nobel Prize Prpject <br>
-  I completed this project as part of the python track in DataCamp
+# Projects🚀
+<details>
+ <summary>Python🐍</summary> 
+  -<a href="https://github.com/Gwals/ProductSales_project" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Product Sales Project</a>
+ <br>
+  -<a href="https://github.com/Gwals/crime_project" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Crime Project</a> <br>
+  -<a href="https://github.com/Gwals/Nobel_price-project" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Nobel Prize Project</a> <br>
 
+ </details>
 <!---
 Gwals/Gwals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
