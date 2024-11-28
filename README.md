@@ -22,6 +22,10 @@
  <summary>SQL➿</summary> 
   -<a href="https://github.com/Gwals/International_debt_stats-Project" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">International Debt Statistic Project</a>
  </details>
+ <details>
+ <summary>Tableau ➰</summary> 
+  -<a href="https://github.com/Gwals/Customer_churn-Project" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Customer Churn Project</a>
+ </details>
 <!---
 Gwals/Gwals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
