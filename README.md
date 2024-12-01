@@ -2,7 +2,7 @@
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on real time projects
-- 📫 Reach me on this link www.linkedin.com/in/hlobisile-gwala-74bb4920b
+- 📫 Reach me on this link www.linkedin.com/in/hlobisile
 - 😄 Pronouns: Her
 - ⚡ Fun fact: I live for predicting...
 - ✨ Programming Technologies: SQL(PostgreSQL, BigQuery), Python(Pandas, Matplotlib, Scipy, Numpy)
